@@ -1,0 +1,6 @@
+temperature,humidity,weather,wind_speed,pressure,"go out (1=yes, 0=No)"
+20,60,Clear,3,1012,1
+15,80,Rain,5,1008,0
+22,50,Clear,2,1015,1
+10,90,Snow,4,1005,0
+25,40,Clear,1,1013,1
